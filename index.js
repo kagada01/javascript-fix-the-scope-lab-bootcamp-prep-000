@@ -2,7 +2,6 @@
 animal = "cat"
 
 function myAnimal() {
-  return yourAnimal()
   return animal
 }
 
